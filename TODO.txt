@@ -1,0 +1,5 @@
+- time at which votes were cast (DONE)
+- how many players there are (DONE)
+- marking players as dead
+- make vote button into an unvote button where applicable (difficult)
+- greatest idea generator
